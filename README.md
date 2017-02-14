@@ -1,9 +1,9 @@
 # SwiftPersianDate
-**Usage:**
+**Usage (Swift 3): **
 ```
 PersianDate.today()
-```
 //returns today date in Jalali calendar format 
+```
 
 **Code:**
 ```
