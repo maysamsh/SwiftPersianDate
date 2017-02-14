@@ -1,5 +1,5 @@
 # SwiftPersianDate
-**Usage (Swift 3): **
+**Usage (Swift 3):**
 ```
 PersianDate.today()
 //returns today date in Jalali calendar format 
